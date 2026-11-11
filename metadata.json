@@ -1,0 +1,6 @@
+{
+  "name": "Maji Gift Admin",
+  "description": "Comprehensive admin management system for Maji Gift Shop featuring inventory, orders, customer accounts, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
